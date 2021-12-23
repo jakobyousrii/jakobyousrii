@@ -43,6 +43,8 @@
 - [:smiley_cat: Publish your ad if you want to sell or give a dog/cat! :dog:](https://pawforlove.herokuapp.com)
 
 </details>
+---
+<img alt="Jakob Yousri's github stats" src="https://github-readme-stats.vercel.app/api?username=jakobyousrii&hide=contribs,prs">
 
 [website]: /
 [instagram]: https://www.instagram.com/jakobyousri/
