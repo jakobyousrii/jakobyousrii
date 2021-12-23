@@ -44,7 +44,7 @@
 
 </details>
 ---
-<img alt="Jakob Yousri's github stats" src="https://github-readme-stats.vercel.app/api?username=jakobyousrii&hide=contribs,prs">
+<img alt="Jakob Yousri's github stats" src="https://github-readme-stats.vercel.app/api?username=jakobyousrii&show_icons=true">
 
 [website]: /
 [instagram]: https://www.instagram.com/jakobyousri/
