@@ -4,7 +4,7 @@
 - :paperclip: Master's degree of Business informatics.
 - 🌱 I’m currently learning Advanced Front-end!
 - 👯 I’m looking to collaborate with other Developers.
-- 🥅 2022 Goals: to become better than i was in 2021.
+- 🥅 2022 Goals: become better than i was in 2021.
 - ⚡ Fun fact: I love GYM, reading, running, TV shows, movies... :running: :closed_book:
 
 ### Connect with me:
