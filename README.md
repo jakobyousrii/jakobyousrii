@@ -44,10 +44,9 @@
 
 </details>
 
-<img alt="Jakob Yousri's github stats" src="https://github-readme-stats.vercel.app/api?username=jakobyousrii&show_icons=true">
-<br/>
 <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jakobyousrii&layout=compact">
 <br/>
+<img alt="Jakob Yousri's github stats" src="https://github-readme-stats.vercel.app/api?username=jakobyousrii&show_icons=true">
 <br/>
 
 [website]: /
