@@ -1,7 +1,7 @@
 ### Hi, I'm Jakob Yousri! 👋 
 
 ## I'm a Web Developer, Back-end but mostly Front-end!
-
+- :paperclip: Master's degree of Business informatics
 - 🌱 I’m currently learning Advanced Front-end!
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 2022 Goals: to become better than i was in 2021.
