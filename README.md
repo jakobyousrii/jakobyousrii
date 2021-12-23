@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Advanced Front-end!
 - 👯 I’m looking to collaborate with other Developers.
 - 🥅 2022 Goals: become better than i was in 2021.
-- ⚡ Fun fact: I love GYM, reading, running, TV shows, movies... :running: :closed_book:
+- ⚡ Fun fact: I love GYM, traveling, reading, running, TV shows, movies... :running: :closed_book: :airplane:
 
 ### Connect with me:
 
