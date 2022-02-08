@@ -39,7 +39,7 @@
 - VanillaJS [:red_circle: Pokemon App serving to help others to learn pokemon weakness and adventages!](https://jakobyousrii.github.io)
 - Full-Stack App (node,express,ejs,MongoDB,Mongoose, RestAPI sessions and more!)[:sunrise_over_mountains: Create your campground and put your cluster inside our campingLife's map!](https://campinglife.herokuapp.com)
 - Full-Stack App (Node, Express, ejs, RestAPI, tvmaze.com/api)[:movie_camera: Find useful informations about specific TV show that can help you find what you would like to watch! 🤯](https://tv-showtime.herokuapp.com)
-- [:five: Simple PDV calculator!](https://pdv-kalkulator.herokuapp.com) 
+- Simpy PDV calculator Made in Node.js [:five: Simple PDV calculator!](https://pdv-kalkulator.herokuapp.com) 
 - React Application [🍽 Sea Paradise App has logic where any user can order some food by inserting the wanted amount and by clicking on add to cart button.](https://seaparadiseapp.web.app/)
 
 </details>
