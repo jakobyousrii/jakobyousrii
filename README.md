@@ -41,7 +41,7 @@
 - Full-Stack App (Node, Express, ejs, RestAPI, tvmaze.com/api)[:movie_camera: Find useful informations about specific TV show that can help you find what you would like to watch! 🤯](https://tv-showtime.herokuapp.com)
 - Simpy PDV calculator Made in Node.js [:five: Simple PDV calculator!](https://pdv-kalkulator.herokuapp.com) 
 - React Application [🍽 Sea Paradise App has logic where any user can order some food by inserting the wanted amount and by clicking on add to cart button.](https://seaparadiseapp.web.app/)
-- My Portfolio Biography - [Portfolio About me and my work!] (https://jakobyousri.web.app)
+- My Portfolio Biography - [Portfolio About me and my work!](https://jakobyousri.web.app)
 
 </details>
 <br/>
