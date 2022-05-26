@@ -38,7 +38,7 @@
 <!-- YOUTUBE:START -->
 - React App (React,MovieAPI, pagination, RTK query) - [:movie_camera: Movie application with search functionality, categories, top rated movies, popular movies and more!](https://movies-app-yousri.web.app/)
 - My Portfolio Biography - [Portfolio About me and my work!](https://jakobyousri.web.app)
-- VanillaJS :newspaper: [[TO DO APP] Create multiple Todos where you can mark every to do item as completed or incompleted](https://to-do-app-vanillajs.web.app/)
+- VanillaJS :newspaper: [[TO DO APP] Create multiple Todos where you can mark every to-do item as completed or incomplete](https://to-do-app-vanillajs.web.app/)
 - Full-Stack App (node,express,ejs,MongoDB,Mongoose, RestAPI sessions and more!)[:sunrise_over_mountains: Create your campground and put your cluster inside our campingLife's map!](https://campinglife.herokuapp.com)
 - Full-Stack App (Node, Express, ejs, RestAPI, tvmaze.com/api)[:movie_camera: Find useful informations about specific TV show that can help you find what you would like to watch! 🤯](https://tv-showtime.herokuapp.com)
 - React Application (redux-toolkit, photoAPI, react-router) [:camera: PhotoApp has logic where you can like or dislike a photo, and also has the ability to see all of the user's liked photos!](https://photo-app-favorites.web.app/)
