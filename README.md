@@ -36,7 +36,7 @@
 📺 <b>My Portfolio Pages:</b>
 
 <!-- YOUTUBE:START -->
-- React App (React,MovieAPI, pagination, RTK query) [:movie_camera: Movie application with search, categories, top rated and popular movies and more!] (https://movies-app-yousri.web.app/)
+- React App (React,MovieAPI, pagination, RTK query) - [:movie_camera: Movie application with search functionality, categories, top rated movies, popular movies and more!] (https://movies-app-yousri.web.app/)
 - VanillaJS [:red_circle: Pokemon App serving to help others to learn pokemon weakness and adventages!](https://jakobyousrii.github.io)
 - Full-Stack App (node,express,ejs,MongoDB,Mongoose, RestAPI sessions and more!)[:sunrise_over_mountains: Create your campground and put your cluster inside our campingLife's map!](https://campinglife.herokuapp.com)
 - Full-Stack App (Node, Express, ejs, RestAPI, tvmaze.com/api)[:movie_camera: Find useful informations about specific TV show that can help you find what you would like to watch! 🤯](https://tv-showtime.herokuapp.com)
