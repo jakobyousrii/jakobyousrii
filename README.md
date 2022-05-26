@@ -37,6 +37,7 @@
 
 <!-- YOUTUBE:START -->
 - React App (React,MovieAPI, pagination, RTK query) - [:movie_camera: Movie application with search functionality, categories, top rated movies, popular movies and more!](https://movies-app-yousri.web.app/)
+- - My Portfolio Biography - [Portfolio About me and my work!](https://jakobyousri.web.app)
 - VanillaJS :newspaper: [[TO DO APP] Create multiple Todos where you can mark every to do item as completed or incompleted](https://to-do-app-vanillajs.web.app/)
 - VanillaJS [:red_circle: Pokemon App serving to help others to learn pokemon weakness and adventages!](https://jakobyousrii.github.io)
 - Full-Stack App (node,express,ejs,MongoDB,Mongoose, RestAPI sessions and more!)[:sunrise_over_mountains: Create your campground and put your cluster inside our campingLife's map!](https://campinglife.herokuapp.com)
@@ -44,7 +45,6 @@
 - Simpy PDV calculator Made in Node.js [:five: Simple PDV calculator!](https://pdv-kalkulator.herokuapp.com) 
 - React Application (redux-toolkit, photoAPI, react-router) [:camera: Photo App with functionality to like or dislike a photo, also ability to see all of liked photos](https://photo-app-favorites.web.app/)
 - React Application [🍽 Sea Paradise App has logic where any user can order some food by inserting the wanted amount and by clicking on add to cart button.](https://seaparadiseapp.web.app/)
-- My Portfolio Biography - [Portfolio About me and my work!](https://jakobyousri.web.app)
 
 </details>
 <br/>
